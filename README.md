@@ -2,7 +2,7 @@
 <h3 align="center">I’m an engineering student specializing in IT and management</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/vincent-dubuc-5b2996258" target="blank">
+  <a href="www.linkedin.com/in/vincent-dbc" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/vincentdub2" target="blank">
@@ -83,10 +83,10 @@
 ### 🚀 Projects
 <p align="left">
   <!-- Add links to your top projects with descriptions -->
-  <a href="https://github.com/vincentdub2/MontpellierGameFest-Volunteers-API" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vincentdub2&repo=MontpellierGameFest-Volunteers-API" alt="MontpellierGameFest-Volunteers-API"/>
+  <a href="https://github.com/VincentDub2/Biv-Quack" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vincentdub2&repo=Biv-Quack" alt="Biv-Quack"/>
   </a>
-  <a href="https://github.com/vincentdub2/IG3ProjetFront" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vincentdub2&repo=IG3ProjetFront" alt="IG3ProjetFront"/>
+  <a href="https://github.com/VincentDub2/mentor-ast-refractor-v1" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vincentdub2&repo=mentor-ast-refractor-v1" alt="mentor-ast-refractor-v1"/>
   </a>
 </p>
